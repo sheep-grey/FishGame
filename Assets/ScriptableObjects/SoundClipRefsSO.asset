@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 7c3a9a8198f63ad43b15db002228a6f5, type: 3}
+  m_Name: SoundClipRefsSO
+  m_EditorClassIdentifier: 
+  countdown:
+  - {fileID: 8300000, guid: a82fcdb5a7dda574887f47a5339761a7, type: 3}
+  getFish:
+  - {fileID: 8300000, guid: 96a89cfed2bd39e4896ffd84ae7a0775, type: 3}
+  hurt:
+  - {fileID: 8300000, guid: e45e3985429f01c40bbb6d2f4ba73730, type: 3}
